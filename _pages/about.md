@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Jiani's home on the web! 
+Hi, I am Jiani Liu, currently a first-year PhD student at Department of Marketing, the University of Hong Kong (HKU) Business School. I am fortunate to be advised by Dr. Xi Li. Here is my cv.
 
 Academic Experience
 ======
