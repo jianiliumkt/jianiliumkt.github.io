@@ -20,6 +20,8 @@ Academic Experience
 Research Interests
 ======
 * Marketing-IS interface (e.g., Non-fungible Tokens, blockchain, recommendation systems)
-* Collaborations in music industry
-* NLP (e.g., topic models, embeddings)
+* Music industry (e.g., collaborations among professional artists, musical identity, persona)
+* NLP methodologies (e.g., topic model and extensions, embeddings)
 * Prosocial behaviors
+
+Beyond academics, I love Cantopop and video games. Xenoblade is my favorite series!
